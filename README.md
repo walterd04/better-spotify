@@ -1,3 +1,19 @@
+# Better Spotify
+
+A project that makes use of your spotify account, but adds some more features to it.
+
+## The vision
+
+We aim to make spotify a bit more of a social platform, connecting spotify accounts to create playlists, listen parties, and more with your friends.
+
+## The tech
+
+This is designed as an SPA, eventually to be ported to a PWA, for ease of use on mobile. We are designed mobile first, and make use of React, Styled-Components, and Material-UI.
+
+We are powered by a backend REST API that makes use of Spotify's very own REST API, [Spotify REST API](https://developer.spotify.com/documentation/web-api/).
+
+---
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
