@@ -10,7 +10,7 @@ We aim to make spotify a bit more of a social platform, connecting spotify accou
 
 This is designed as an SPA, eventually to be ported to a PWA, for ease of use on mobile. We are designed mobile first, and make use of React, Styled-Components, and Material-UI.
 
-We are powered by a backend REST API that makes use of Spotify's very own REST API, [Spotify REST API](https://developer.spotify.com/documentation/web-api/).
+We are powered by a backend REST API, [Better Spotify API](https://github.com/walterd04/better-spotify-api.git) that makes use of Spotify's very own REST API, [Spotify REST API](https://developer.spotify.com/documentation/web-api/).
 
 ---
 
